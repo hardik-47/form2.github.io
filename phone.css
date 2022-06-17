@@ -1,0 +1,26 @@
+.formgrp input{
+    font-size: 20px;
+    width: 416px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #e5e9ff;
+    border: 2px solid white
+}
+
+.formgrp{
+    display: block;
+    
+}
+
+.container{
+    height: 800px;
+    width: 1042px;
+    border: 2px solid white;
+    margin-left: 229px;
+    margin-top: 30px;
+    padding: 23px;
+    background-color: white;
+    
+}
